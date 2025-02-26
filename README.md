@@ -23,7 +23,7 @@ AfroShop is a modern e-commerce platform built with Laravel and Aimeos, designed
 - **Database**: MySQL
 - **Frontend**: Blade templates, Bootstrap
 - **Payment Integrations**: PayPal, Stripe, MTN Mobile Money, Visa, Mastercard
-- **Deployment**: Docker, CI/CD pipeline
+
 
 ## Installation
 
@@ -75,6 +75,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For any inquiries or issues, contact **Gideon Adjei** at [your-email@example.com].
